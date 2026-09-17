@@ -17,4 +17,13 @@ The program has two files: scheduler.ipynb and calendar.ipynb
    - Create website
 
 
-  
+## Uploading history
+
+- schedule1: only hospital day and night shift schedule; requests for days off
+- schedule2: day and night shifts are split equally; added clinic days
+- schedule3: introduced half clinic days
+- schedule4: added validation routine for days off
+- schedule5: compensated for hour deficit during the following week
+- schedule6: part time (20 hr weeks) workers (Cezanne)
+- schedule7: balance days and nights for Cezanne's calls; 
+             balance CNMs evenly between clinic days
